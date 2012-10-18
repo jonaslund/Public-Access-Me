@@ -1,0 +1,7 @@
+body,html{margin:0;padding:0}body{font-family:'Lucida Grande',sans-serif;color:#111}#frames{width:1440px;height:800px;margin:0 auto;overflow:hidden;text-align:center}
+#frames iframe{width:1440px;height:800px}#frames{border-left:1px solid #CCC;border-bottom:1px solid #CCC;border-right:1px solid #CCC;box-shadow:0 0 30px rgba(0,0,0,0.2);z-index:200;position:relative}
+.noiframe iframe{display:none!important}.nopics img{display:none!important}.hidden{display:none}#wrap{visibility:visible}#outer{background:url("/files/liner.png") repeat;height:72px;width:1440px;margin:0 auto;position:relative;box-shadow:0 0 30px rgba(0,0,0,0.2);overflow:hidden}
+#chhead{position:absolute;top:0;left:0}#cdfot{position:absolute;top:0;right:-20px}#cururl{position:absolute;top:45px;left:118px;font-size:13px;color:#111;width:1000px;overflow:hidden;height:17px}
+#title{position:absolute;top:10px;left:111px;color:#111;z-index:2000;font-size:12px;font-weight:normal;width:154px;overflow:hidden;height:16px;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;pointer-events:none}
+#favicon{position:absolute;top:17px;z-index:2000;left:92px;width:16px;height:16px}#loader{width:100%;height:100%;text-align:center;position:fixed;top:0;left:0;z-index:1000}
+#loader img{padding-top:80px}#connecting{font-size:14px;font-weight:normal;position:fixed;bottom:30px;left:30px;z-index:2000}

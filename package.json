@@ -1,0 +1,22 @@
+{
+  "name": "Public Access Me",
+  "version": "1",
+  "dependencies": {
+    "socket.io": "0.9.10",
+    "express": "3.0.x",
+    "knox" : "0.3.1",
+    "mysql":  "2.0.x",
+    "generic-pool": "2.0.1",
+    "ejs": "0.8.3"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "domains": [
+    "public-access.me"
+  ]  
+  "scripts": {
+    "start": "server.js"
+  }
+}
